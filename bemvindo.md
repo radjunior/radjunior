@@ -1,0 +1,8 @@
+- 👋 Olá. Meu nome é Reginaldo Alves Domingos Junior;
+- 👀 Estou interessado em compartilhar conhecimento com o mundo;
+- 🌱 Atualmente estou me especializando em Java Servlet, Spring Framework e afins;
+- 💞️ Procuro colaborar com projetos da minha especialização.
+- 📫 Meus contatos são: 
+- Whatsapp: +55 (17) 9 9745-4235
+- Email: reg.juninho@hotmail.com
+- Linkedin: https://www.linkedin.com/in/radjunior/
